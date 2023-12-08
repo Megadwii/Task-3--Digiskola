@@ -188,5 +188,3 @@ public class OperasiAritmatika {
     }
 }
 =============
-//test comment
-//Belajar
